@@ -1,0 +1,13 @@
+READ ME:
+
+cara instal
+1. Folder yang digunakan yaitu templat publik cendana (default).
+2. Rename index_template.php menjadi index_template_old.php (bawaan dari cendana)
+3. Simpan index_template.php yang disediakan untuk instal plugin GMD di OPAC Cendana
+4. Lakukan refresh pada OPAC
+5. Selesai
+
+Plugin GMD di OPAC Cendana
+by Dwi Fajar Saputra, email dfsptra@gmail.com
+
+
